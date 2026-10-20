@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 256" width="1024" height="256">
+	<title>New Project</title>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 300px;fill: #f8931d;font-weight: 400;font-family: "Gugi-Regular", "Gugi" } 
+		.t1 { font-size: 300px;fill: #424244;font-weight: 400;font-family: "Gugi-Regular", "Gugi" } 
+	</style>
+	<text id="cmpos" style="transform: matrix(1,0,0,1,510.578,196.938)" >
+		<tspan x="-493" y="0" class="t0">c</tspan><tspan  y="0" class="t0">m</tspan><tspan  y="0" class="t1">p</tspan><tspan  y="0" class="t1">o</tspan><tspan  y="0" class="t1">s</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+</svg>
